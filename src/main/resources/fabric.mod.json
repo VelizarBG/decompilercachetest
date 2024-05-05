@@ -15,6 +15,7 @@
 	"environment": "*",
 	"entrypoints": {
 	},
+	"accessWidener": "decompilercachetest.accesswidener",
 	"depends": {
 		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.20.6",
