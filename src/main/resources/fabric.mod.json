@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "decompilercachetest",
+	"version": "${version}",
+	"name": "Decompiler Cache Test",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"VelizarBG"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+	},
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21"
+	}
+}
